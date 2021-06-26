@@ -1,10 +1,12 @@
 ##  Netscan
-![image](https://user-images.githubusercontent.com/86202527/123514270-1c018c00-d660-11eb-995a-05418e74d0f9.png)
+![image](https://user-images.githubusercontent.com/86202527/123516812-fa0e0680-d66b-11eb-8e05-2d10a1bb8240.png)
 
 
 
 
-[![](https://img.shields.io/github/stars/cybercreek/netscan?color=pink&style=for-the-badge)](https://github.com/cybercreek/netscan/stargazers)                      [![](https://img.shields.io/github/forks/cybercreek/netscan?color=pink&style=for-the-badge)](https://github.com/cybercreek/netscan/network)
+
+
+[![](https://img.shields.io/github/stars/cybercreek/netscan?color=pink&style=for-the-badge)](https://github.com/cybercreek/netscan/stargazers)<space><space>                 [![](https://img.shields.io/github/forks/cybercreek/netscan?color=pink&style=for-the-badge)](https://github.com/cybercreek/netscan/network)<space><space>
 
 A tool for **Termux and WSL**. 
 *THIS CODE IS FOR EDUCATIONAL PURPOSES!*
